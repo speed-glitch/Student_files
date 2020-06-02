@@ -1,0 +1,10 @@
+<Rollno>,<StudName>,<Subject>,<Marks>
+101,Santosh , maths, 35
+102, Hina, English, 41
+101 ,Santosh , Hindi, 30
+101, Santosh, Physics, 39
+103 ,Meena, science, 45
+102, Hina, chemistry, 46
+102 , Hina, biology, 50
+103, Meena, Hindi, 35
+104, Suresh, History, 46

@@ -1,0 +1,4 @@
+{marks: 41,Id:102 , Name: Hina, subject:English}
+{marks: 46,Id:102 , Name: Hina, subject:chemistry}
+{marks: 50,Id:102 , Name: Hina, subject:biology}
+					Total:137

@@ -1,0 +1,3 @@
+{marks: 45,Id:103 , Name: Meena, subject:science}
+{marks: 35,Id:103 , Name: Meena, subject:Hindi}
+					Total:80
